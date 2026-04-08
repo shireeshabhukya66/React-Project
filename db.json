@@ -1,10 +1,170 @@
 {
   "posts": [
     {
-      "id": "6c90",
+      "id": "9528",
+      "title": "Your Journey",
+      "content": "Tell the story of how you started your business or blog.",
+      "author": "sirisha",
+      "likes": 2,
+      "likedBy": [
+        "navya428@gmail.com",
+        "sirishabhukya55@gmail.com"
+      ],
+      "image": "",
+      "category": ""
+    },
+    {
+      "id": "2e38",
+      "title": "Lessons Learned",
+      "content": "Discuss the biggest mistakes you've made and how they changed your approach.",
+      "author": "sirisha",
+      "likes": 1,
+      "likedBy": [
+        "navya428@gmail.com"
+      ],
+      "comments": [
+        {
+          "id": 1772729330883,
+          "user": "navya",
+          "text": "Very informative article"
+        }
+      ]
+    },
+    {
+      "id": "3b1e",
+      "title": "Case Studies",
+      "content": "Showcase success stories of your work with clients.",
+      "author": "sirisha",
+      "likes": 1,
+      "likedBy": [
+        "navya428@gmail.com"
+      ]
+    },
+    {
+      "id": "4e2b",
       "title": "Day in the Life",
       "content": "Share your daily routine in your industry.",
-      "author": "sirisha"
+      "author": "sirisha",
+      "likes": 2,
+      "likedBy": [
+        "sirishabhukya55@gmail.com",
+        "navya428@gmail.com"
+      ]
+    },
+    {
+      "id": "81ae",
+      "title": "The Future of Artificial Intelligence",
+      "content": "Artificial Intelligence is transforming industries across the globe. From automation to smart assistants, AI is redefining how we work and interact with technology.",
+      "author": "navya",
+      "likes": 1,
+      "likedBy": [
+        "navya428@gmail.com"
+      ]
+    },
+    {
+      "id": "24ac",
+      "title": "Top Web Development Trends in 2026",
+      "content": "Web development continues to evolve with new frameworks, AI integration, and faster performance tools. Discover the trends shaping modern websites this year.",
+      "author": "navya",
+      "likes": 1,
+      "likedBy": [
+        "navya428@gmail.com"
+      ]
+    },
+    {
+      "id": "c20e",
+      "title": "The Rise of Remote Work Culture",
+      "content": "Remote work is reshaping how companies operate. Discover the benefits, challenges, and tools that support a productive remote workforce",
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQGvbwGuR3pBPQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1687415560894?e=2147483647&v=beta&t=TEoEAcXra_LKVgWXdUakVyw-xmtQZauGzi9m0DagnJc",
+      "author": "navya",
+      "comments": [
+        {
+          "id": 1773052907435,
+          "user": "navya",
+          "text": "good content"
+        }
+      ],
+      "likes": 1,
+      "likedBy": [
+        "navya428@gmail.com"
+      ]
+    },
+    {
+      "id": "0563",
+      "title": "The Impact of Social Media on Modern Businesses",
+      "content": "Social media has become one of the most powerful tools for businesses to connect with customers. From brand awareness to customer engagement, platforms like Instagram, LinkedIn, and TikTok help companies reach global audiences. This article discusses strategies for using social media effectively.",
+      "image": "https://media.licdn.com/dms/image/v2/D5612AQEQAsk6U2y7cA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1682268746578?e=2147483647&v=beta&t=bW_ANery5PMlPlPgkHXTXKSa6IcEv55saGTuKaM0rkw",
+      "author": "navya"
+    },
+    {
+      "id": "d348",
+      "title": "The Power of Consistency in Personal Growth",
+      "content": "Success rarely happens overnight. Most achievements come from small, consistent actions repeated over time. This blog discusses how building simple daily habits can lead to long-term growth in your career, health, and personal life.",
+      "image": "https://media.licdn.com/dms/image/v2/D5612AQHrLJgmWUG-QQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1728916058246?e=2147483647&v=beta&t=K2uaqyfq24EPhY37ItGR7FmGH6zoqupbx0RlPase2RQ",
+      "author": "navya"
+    },
+    {
+      "id": "d245",
+      "title": "Why Learning Web Development Is Still Worth It",
+      "content": "Web development remains one of the most in-demand skills in the tech industry. With businesses constantly moving online, developers are needed to build fast, responsive, and user-friendly websites. In this article, we explore why web development is still a great career choice and the technologies you should learn today.",
+      "image": "https://media.geeksforgeeks.org/wp-content/uploads/20250709214654133959/whylearnwebdevelopment.webp",
+      "author": "navya"
+    },
+    {
+      "id": "c469",
+      "title": "The Future of Artificial Intelligence",
+      "content": "Artificial Intelligence is rapidly transforming the world around us. From smart assistants to self-driving cars, AI is becoming an essential part of modern life. Businesses are leveraging AI to automate processes, improve decision-making, and enhance customer experiences. In the future, AI will continue to evolve, making systems more intelligent, efficient, and human-like. However, ethical concerns and data privacy will remain important challenges to address.",
+      "image": "https://guptadeepak.com/content/images/size/w2000/2024/07/The-Future-of-AI-and-Its-Impact-on-Humanity.webp",
+      "category": "tech ",
+      "author": "Ram"
+    },
+    {
+      "id": "4b0d",
+      "title": "The Power of Consistency",
+      "content": "Success doesn’t come from one big action—it comes from small, consistent efforts over time. Whether it's learning a new skill, improving your health, or building a career, consistency is the key. Daily habits shape long-term results. Even on difficult days, showing up matters. The compound effect of small actions can lead to significant achievements over time.",
+      "image": "https://i.ytimg.com/vi/A9BB6zDPFFI/sddefault.jpg",
+      "category": "life",
+      "author": "Ram"
+    },
+    {
+      "id": "064d",
+      "title": "Balancing Work and Personal Life",
+      "content": "In today’s fast-paced world, maintaining a balance between work and personal life is essential. Overworking can lead to burnout, stress, and reduced productivity. Setting boundaries, taking breaks, and prioritizing personal time can improve overall well-being. A balanced life leads to better mental health, stronger relationships, and improved work performance.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ31uE18zB0-E18xZCpvQOAscG0sld6EZ-s5g&s",
+      "category": "life",
+      "author": "Ram"
+    },
+    {
+      "id": "3289",
+      "title": "Top Web Development Trends in 2026",
+      "content": "Web development is evolving faster than ever. Modern trends include AI-powered tools, serverless architectures, and enhanced user experiences through animations and performance optimization. Frameworks like React continue to grow, while developers focus on building faster and more accessible websites. Staying updated with trends is crucial for developers to remain competitive in the industry.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWU82Usg3GyhSmqFcqwDoyInJRpxt6YPMvBw&s",
+      "category": "tech",
+      "author": "Ram"
+    },
+    {
+      "id": "04ed",
+      "title": "The Importance of Lifelong Learning",
+      "content": "In a rapidly changing world, learning doesn’t stop after formal education. Lifelong learning helps individuals stay relevant, adapt to new technologies, and grow personally and professionally. Whether through online courses, books, or hands-on experience, continuous learning builds confidence and opens new opportunities. It is a key factor in long-term success.",
+      "image": "https://image.slidesharecdn.com/lifelonglearning-151207072350-lva1-app6891/85/Lifelong-learning-6-320.jpg",
+      "category": "education",
+      "author": "Kutti"
+    },
+    {
+      "id": "6332",
+      "title": "Time Management Strategies for Entrepreneurs",
+      "content": "Entrepreneurs often juggle multiple responsibilities, making time management critical. Prioritizing tasks, setting clear goals, and avoiding distractions can improve productivity. Tools like calendars and task managers help organize daily activities. Effective time management leads to better decision-making and business growth.",
+      "image": "https://media.licdn.com/dms/image/v2/D4D12AQF6OAJB9dSamg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721193125352?e=2147483647&v=beta&t=C91UnqmXe0jjUNlP5obS100VSThJMkC6zMONbrpCEPg",
+      "category": "business",
+      "author": "Kutti"
+    },
+    {
+      "id": "f139",
+      "title": "Online Learning vs Traditional Learning",
+      "content": "Education has evolved with the rise of online learning platforms. While traditional classrooms offer direct interaction and structured environments, online learning provides flexibility and accessibility. Both methods have their advantages, and the choice depends on individual learning styles. A combination of both can often provide the best results.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBy7o3AUSm65_jyJ5yqpRaCK3TW1G6HEpZIw&s",
+      "category": "education",
+      "author": "Ram"
     }
   ]
 }

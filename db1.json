@@ -5,6 +5,24 @@
       "name": "sirisha",
       "email": "sirishabhukya55@gmail.com",
       "password": "939025"
+    },
+    {
+      "id": "ea85",
+      "name": "navya",
+      "email": "navya428@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "97c1",
+      "name": "Ram",
+      "email": "ram12@gmail.com",
+      "password": "Ram123"
+    },
+    {
+      "id": "96da",
+      "name": "Kutti",
+      "email": "kutti12@gmail.com",
+      "password": "Kutti123"
     }
   ]
 }
