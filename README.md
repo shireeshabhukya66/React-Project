@@ -27,7 +27,7 @@ This app allows users to register, login, create, edit, delete and like blog pos
 - Context API
 - CSS3
 
-### ⚙️ Backend (Mock API)
+###  Backend (Mock API)
 - JSON Server
 - Axios
 
